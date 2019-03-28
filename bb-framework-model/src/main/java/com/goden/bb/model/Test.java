@@ -1,13 +1,15 @@
 package com.goden.bb.model;
 
 import javax.sound.midi.Soundbank;
+import java.util.Map;
 
 /**
- * @program: BusinessServer
- * @description: 测试
- * @author: Goden
- * @create: 2019-03-28 15:41
- **/
+*@Description: 
+*@Param:
+*@return: 
+*@Author: Goden
+*@date: 2019/3/28
+**/
 public class Test {
     public static void main(String[] args) {
         String s = "Hello World";
@@ -15,4 +17,6 @@ public class Test {
             System.out.println(s);
         }
     }
+
+
 }
